@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrimony", "Matrimony\Matrimony.csproj", "{A027C135-F823-46E6-9E9F-15F583531573}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A027C135-F823-46E6-9E9F-15F583531573}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A027C135-F823-46E6-9E9F-15F583531573}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A027C135-F823-46E6-9E9F-15F583531573}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A027C135-F823-46E6-9E9F-15F583531573}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A196ED9A-9E9A-4879-899B-0ABE3B8458CF}
+	EndGlobalSection
+EndGlobal
